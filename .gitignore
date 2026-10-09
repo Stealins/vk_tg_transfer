@@ -1,0 +1,10 @@
+personal_data/
+myvenv/
+bot.log*
+__pycache__/
+
+# старая версия бота — только локально, для сравнения (в истории git до перехода на vk_tg_bridge/)
+no_bottle/
+sockets/
+
+
